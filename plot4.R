@@ -26,7 +26,7 @@ plot(Sub_metering_1~daytime, data=a, type="l", ylab="Energy sub metering",
 lines(Sub_metering_2~daytime, data=a, col="red")
 lines(Sub_metering_3~daytime, data=a, col="blue")
 legend(x="topright", legend=c("Sub_metering_1", "Sub_metering_2", "Sub_metering_3"),
-       lty=1, col=c("black", "red", "blue"))
+       lty=1, col=c("black", "red", "blue"), bty="n")
 
 plot(Global_reactive_power~daytime, data=a, type="l", xlab="datetime")
 
