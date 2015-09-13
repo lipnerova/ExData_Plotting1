@@ -2,7 +2,11 @@
 
 This repo contains files for Coursera Plotting Assignment 1 for Exploratory Data Analysis. There are 8 files for 4 figures - each figure is represented by the actual figure in .png format and by the code necessary for creating the figures. Below is the original README.md created by R.D. Peng.
 
+Please note that days in graphs are not in english but in my language (Czech). I wasn't able to change the behaviour of R itself and I cannot change the locals of computer I'm working on (for further info see https://class.coursera.org/exdata-032/forum/thread?thread_id=75#post-290).
 
+Also please consider that this problems also means that the plots will differ in days names from what you get if you run my code (e.g. it will seesm like the plots are not fully reproducible - they are, if you set your system to be in Czech language). As far as I can say this is not my fault, this is a behaviour of operational system (Win7).
+
+------------------------------------------
 
 ## Introduction
 
