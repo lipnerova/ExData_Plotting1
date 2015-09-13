@@ -1,9 +1,3 @@
-## Intro
-
-This repo contains files for Coursera Plotting Assignment 1 for Exploratory Data Analysis. There are 8 files for 4 figures - each figure is represented by the actual figure in .png format and by the code necessary for creating the figures. Below is the original README.md created by R.D. Peng.
-
-
-
 ## Introduction
 
 This assignment uses data from
